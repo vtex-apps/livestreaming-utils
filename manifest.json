@@ -1,7 +1,7 @@
 {
   "vendor": "vtexventures",
   "name": "livestreaming-utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "title": "live streaming utils",
   "description": "utilities for live shopping",
   "builders": {
@@ -10,9 +10,7 @@
     "docs": "0.x"
   },
   "dependencies": {},
-  "registries": [
-    "smartcheckout"
-  ],
+  "registries": ["smartcheckout"],
   "policies": [],
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
